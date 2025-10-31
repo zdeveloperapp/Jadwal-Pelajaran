@@ -1,0 +1,3525 @@
+{
+  "10-TJKT": {
+    "Senin": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 13,
+        "mapel": "Seni budaya",
+        "guru": "SISKA PUJIANTI.M, S.Tr.Sn"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 13,
+        "mapel": "Seni budaya",
+        "guru": "SISKA PUJIANTI.M, S.Tr.Sn"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 16,
+        "mapel": "Pendidikan Kewarganegaraan",
+        "guru": "ALDI FAREL"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 16,
+        "mapel": "Pendidikan Kewarganegaraan",
+        "guru": "ALDI FAREL"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 6,
+        "mapel": "B.Indonesia",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 6,
+        "mapel": "B.Indonesia",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 6,
+        "mapel": "B.Indonesia",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 18,
+        "mapel": "Matematika",
+        "guru": "FAHMI MUFTI, S.Pd"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 18,
+        "mapel": "Matematika",
+        "guru": "FAHMI MUFTI, S.Pd"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 18,
+        "mapel": "Matematika",
+        "guru": "FAHMI MUFTI, S.Pd"
+      }
+    ],
+    "Selasa": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 11,
+        "mapel": "Pengenalan Alat Ukur",
+        "guru": "ANTON, S.Pd"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 11,
+        "mapel": "Pengenalan Alat Ukur",
+        "guru": "ANTON, S.Pd"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 7,
+        "mapel": "PJOK",
+        "guru": "M. AGUS HASANUDDIN, S.Pd."
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 7,
+        "mapel": "PJOK",
+        "guru": "M. AGUS HASANUDDIN, S.Pd."
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 8.2,
+        "mapel": "Dasar-Dasar TJKT",
+        "guru": "KAMALUDIN SAYUTI, S.Pd"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 8.2,
+        "mapel": "Dasar-Dasar TJKT",
+        "guru": "KAMALUDIN SAYUTI, S.Pd"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 5.1,
+        "mapel": "Sejarah Indonesia",
+        "guru": "UTAY, S.Pd.I."
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 5.1,
+        "mapel": "Sejarah Indonesia",
+        "guru": "UTAY, S.Pd.I."
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 4,
+        "mapel": "PAI",
+        "guru": "HERI LATIP, S.Pd.I"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 4,
+        "mapel": "PAI",
+        "guru": "HERI LATIP, S.Pd.I"
+      }
+    ],
+    "Rabu": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 8,
+        "mapel": "Informatika",
+        "guru": "KAMALUDIN SAYUTI, S.Pd"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 8,
+        "mapel": "Informatika",
+        "guru": "KAMALUDIN SAYUTI, S.Pd"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 8,
+        "mapel": "Informatika",
+        "guru": "KAMALUDIN SAYUTI, S.Pd"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 5,
+        "mapel": "B.Sunda",
+        "guru": "UTAY, S.Pd.I."
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 5,
+        "mapel": "B.Sunda",
+        "guru": "UTAY, S.Pd.I."
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 17,
+        "mapel": "Coding & AI",
+        "guru": "JANJAN HARI SUDRAJAT, S.Kom"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 17,
+        "mapel": "Coding & AI",
+        "guru": "JANJAN HARI SUDRAJAT, S.Kom"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 8.1,
+        "mapel": "K3LH & Budaya Kerja",
+        "guru": "KAMALUDIN SAYUTI, S.Pd"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 8.1,
+        "mapel": "K3LH & Budaya Kerja",
+        "guru": "KAMALUDIN SAYUTI, S.Pd"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 8.1,
+        "mapel": "K3LH & Budaya Kerja",
+        "guru": "KAMALUDIN SAYUTI, S.Pd"
+      }
+    ],
+    "Kamis": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 14,
+        "mapel": "Mulok BTQ",
+        "guru": "YASIRA ABDULROHMAN"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 14,
+        "mapel": "Mulok BTQ",
+        "guru": "YASIRA ABDULROHMAN"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 3,
+        "mapel": "B.Inggris",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 3,
+        "mapel": "B.Inggris",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 3,
+        "mapel": "B.Inggris",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 18.1,
+        "mapel": "Projek IPAS",
+        "guru": "FAHMI MUFTI, S.Pd"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 18.1,
+        "mapel": "Projek IPAS",
+        "guru": "FAHMI MUFTI, S.Pd"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 18.1,
+        "mapel": "Projek IPAS",
+        "guru": "FAHMI MUFTI, S.Pd"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 17.1,
+        "mapel": "Proses Bisnis&Profesi Kewirausahaan",
+        "guru": "JANJAN HARI SUDRAJAT, S.Kom"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 17.1,
+        "mapel": "Proses Bisnis&Profesi Kewirausahaan",
+        "guru": "JANJAN HARI SUDRAJAT, S.Kom"
+      }
+    ],
+    "Jumat": [
+      {
+        "jamKe": 1,
+        "waktu": "07:30 - 08:10",
+        "code": "-",
+        "mapel": "Gapura Panca Waluya",
+        "guru": "-"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "08:10 - 08:50",
+        "code": "-",
+        "mapel": "Gapura Panca Waluya",
+        "guru": "-"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "09:20 - 10:00",
+        "code": "-",
+        "mapel": "Gapura Panca Waluya",
+        "guru": "-"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "10:00 - 10:40",
+        "code": "-",
+        "mapel": "Gapura Panca Waluya",
+        "guru": "-"
+      }
+    ]
+  },
+  "10-TO": {
+    "Senin": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 13,
+        "mapel": "Seni budaya",
+        "guru": "SISKA PUJIANTI.M, S.Tr.Sn"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 13,
+        "mapel": "Seni budaya",
+        "guru": "SISKA PUJIANTI.M, S.Tr.Sn"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 16,
+        "mapel": "Pendidikan Kewarganegaraan",
+        "guru": "ALDI FAREL"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 16,
+        "mapel": "Pendidikan Kewarganegaraan",
+        "guru": "ALDI FAREL"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 6,
+        "mapel": "B.Indonesia",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 6,
+        "mapel": "B.Indonesia",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 6,
+        "mapel": "B.Indonesia",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 18,
+        "mapel": "Matematika",
+        "guru": "FAHMI MUFTI, S.Pd"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 18,
+        "mapel": "Matematika",
+        "guru": "FAHMI MUFTI, S.Pd"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 18,
+        "mapel": "Matematika",
+        "guru": "FAHMI MUFTI, S.Pd"
+      }
+    ],
+    "Selasa": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 19.1,
+        "mapel": "Proses Bisnis & Profesi Kewirausahaa",
+        "guru": "ALDI RAMADHAN, S.H"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 19.1,
+        "mapel": "Proses Bisnis & Profesi Kewirausahaa",
+        "guru": "ALDI RAMADHAN, S.H"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 7,
+        "mapel": "PJOK",
+        "guru": "M. AGUS HASANUDDIN, S.Pd."
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 7,
+        "mapel": "PJOK",
+        "guru": "M. AGUS HASANUDDIN, S.Pd."
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 20.1,
+        "mapel": "Teknik Dasar Pemeliharaan & Perbaikan",
+        "guru": "DENI"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 20.1,
+        "mapel": "Teknik Dasar Pemeliharaan & Perbaikan",
+        "guru": "DENI"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 5.1,
+        "mapel": "Sejarah Indonesia",
+        "guru": "UTAY, S.Pd.I."
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 5.1,
+        "mapel": "Sejarah Indonesia",
+        "guru": "UTAY, S.Pd.I."
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 4,
+        "mapel": "PAI",
+        "guru": "HERI LATIP, S.Pd.I"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 4,
+        "mapel": "PAI",
+        "guru": "HERI LATIP, S.Pd.I"
+      }
+    ],
+    "Rabu": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 8,
+        "mapel": "Informatika",
+        "guru": "KAMALUDIN SAYUTI, S.Pd"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 8,
+        "mapel": "Informatika",
+        "guru": "KAMALUDIN SAYUTI, S.Pd"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 8,
+        "mapel": "Informatika",
+        "guru": "KAMALUDIN SAYUTI, S.Pd"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 5,
+        "mapel": "B.Sunda",
+        "guru": "UTAY, S.Pd.I."
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 5,
+        "mapel": "B.Sunda",
+        "guru": "UTAY, S.Pd.I."
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 17,
+        "mapel": "Coding & AI",
+        "guru": "JANJAN HARI SUDRAJAT, S.Kom"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 17,
+        "mapel": "Coding & AI",
+        "guru": "JANJAN HARI SUDRAJAT, S.Kom"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 20,
+        "mapel": "Pengembangan Teknologi Otomotif",
+        "guru": "DENI"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 20,
+        "mapel": "Pengembangan Teknologi Otomotif",
+        "guru": "DENI"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 20,
+        "mapel": "Pengembangan Teknologi Otomotif",
+        "guru": "DENI"
+      }
+    ],
+    "Kamis": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 14,
+        "mapel": "Mulok BTQ",
+        "guru": "YASIRA ABDULROHMAN"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 14,
+        "mapel": "Mulok BTQ",
+        "guru": "YASIRA ABDULROHMAN"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 3,
+        "mapel": "B.Inggris",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 3,
+        "mapel": "B.Inggris",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 3,
+        "mapel": "B.Inggris",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 18.1,
+        "mapel": "Projek IPAS",
+        "guru": "FAHMI MUFTI, S.Pd"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 18.1,
+        "mapel": "Projek IPAS",
+        "guru": "FAHMI MUFTI, S.Pd"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 18.1,
+        "mapel": "Projek IPAS",
+        "guru": "FAHMI MUFTI, S.Pd"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 9,
+        "mapel": "Gambar Teknik",
+        "guru": "REKHA AHMAD F., S.Pd"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 9,
+        "mapel": "Gambar Teknik",
+        "guru": "REKHA AHMAD F., S.Pd"
+      }
+    ],
+    "Jumat": [
+      {
+        "jamKe": 1,
+        "waktu": "07:30 - 08:10",
+        "code": "-",
+        "mapel": "Gapura Panca Waluya",
+        "guru": "-"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "08:10 - 08:50",
+        "code": "-",
+        "mapel": "Gapura Panca Waluya",
+        "guru": "-"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "09:20 - 10:00",
+        "code": "-",
+        "mapel": "Gapura Panca Waluya",
+        "guru": "-"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "10:00 - 10:40",
+        "code": "-",
+        "mapel": "Gapura Panca Waluya",
+        "guru": "-"
+      }
+    ]
+  }, 
+
+  "10-FARMASI": {
+    "Senin": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 7,
+        "mapel": "PJOK",
+        "guru": "M. AGUS HASANUDDIN, S.Pd."
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 7,
+        "mapel": "PJOK",
+        "guru": "M. AGUS HASANUDDIN, S.Pd."
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 8,
+        "mapel": "Informatika",
+        "guru": "KAMALUDIN SAYUTI, S.Pd"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 8,
+        "mapel": "Informatika",
+        "guru": "KAMALUDIN SAYUTI, S.Pd"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 8,
+        "mapel": "Informatika",
+        "guru": "KAMALUDIN SAYUTI, S.Pd"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 16,
+        "mapel": "Pendidikan Kewarganegaraan",
+        "guru": "ALDI FAREL"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 16,
+        "mapel": "Pendidikan Kewarganegaraan",
+        "guru": "ALDI FAREL"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 15,
+        "mapel": "Projek IPAS",
+        "guru": "IRMA PERMANA"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 15,
+        "mapel": "Projek IPAS",
+        "guru": "IRMA PERMANA"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 15,
+        "mapel": "Projek IPAS",
+        "guru": "IRMA PERMANA"
+      }
+    ],
+    "Selasa": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 13,
+        "mapel": "Seni budaya",
+        "guru": "SISKA PUJIANTI.M, S.Tr.Sn"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 13,
+        "mapel": "Seni budaya",
+        "guru": "SISKA PUJIANTI.M, S.Tr.Sn"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 14,
+        "mapel": "Mulok BTQ",
+        "guru": "YASIRA ABDULROHMAN"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 14,
+        "mapel": "Mulok BTQ",
+        "guru": "YASIRA ABDULROHMAN"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 5.1,
+        "mapel": "Sejarah Indonesia",
+        "guru": "UTAY, S.Pd.I."
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 5.1,
+        "mapel": "Sejarah Indonesia",
+        "guru": "UTAY, S.Pd.I."
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 4,
+        "mapel": "PAI",
+        "guru": "HERI LATIP, S.Pd.I"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 4,
+        "mapel": "PAI",
+        "guru": "HERI LATIP, S.Pd.I"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 5,
+        "mapel": "B.Sunda",
+        "guru": "UTAY, S.Pd.I."
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 5,
+        "mapel": "B.Sunda",
+        "guru": "UTAY, S.Pd.I."
+      }
+    ],
+    "Rabu": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 6,
+        "mapel": "B.Indonesia",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 6,
+        "mapel": "B.Indonesia",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 6,
+        "mapel": "B.Indonesia",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 17,
+        "mapel": "Coding & AI",
+        "guru": "JANJAN HARI SUDRAJAT, S.Kom"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 17,
+        "mapel": "Coding & AI",
+        "guru": "JANJAN HARI SUDRAJAT, S.Kom"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 3,
+        "mapel": "B.Inggris",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 3,
+        "mapel": "B.Inggris",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 3,
+        "mapel": "B.Inggris",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 6.1,
+        "mapel": "Perkembangan Teknologi Farmasi",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 6.1,
+        "mapel": "Perkembangan Teknologi Farmasi",
+        "guru": "LASMANAH, S.Pd"
+      }
+    ],
+    "Kamis": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 18,
+        "mapel": "Matematika",
+        "guru": "FAHMI MUFTI, S.Pd"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 18,
+        "mapel": "Matematika",
+        "guru": "FAHMI MUFTI, S.Pd"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 18,
+        "mapel": "Matematika",
+        "guru": "FAHMI MUFTI, S.Pd"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 10,
+        "mapel": "Teknologi Dasar Kefarmasian",
+        "guru": "EKA NOFIYANTI, A.Md.Ak"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 10,
+        "mapel": "Teknologi Dasar Kefarmasian",
+        "guru": "EKA NOFIYANTI, A.Md.Ak"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 13.1,
+        "mapel": "Proses Bisnis & Profil Pelaku Wirausaha",
+        "guru": "SISKA PUJIANTI.M, S.Tr.Sn"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 13.1,
+        "mapel": "Proses Bisnis & Profil Pelaku Wirausaha",
+        "guru": "SISKA PUJIANTI.M, S.Tr.Sn"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 13.1,
+        "mapel": "Proses Bisnis & Profil Pelaku Wirausaha",
+        "guru": "SISKA PUJIANTI.M, S.Tr.Sn"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 13.2,
+        "mapel": "Peraturan & Legalitas",
+        "guru": "SISKA PUJIANTI.M, S.Tr.Sn"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 13.2,
+        "mapel": "Peraturan & Legalitas",
+        "guru": "SISKA PUJIANTI.M, S.Tr.Sn"
+      }
+    ],
+    "Jumat": [
+      {
+        "jamKe": 1,
+        "waktu": "07:30 - 08:10",
+        "code": "-",
+        "mapel": "Gapura Panca Waluya",
+        "guru": "-"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "08:10 - 08:50",
+        "code": "-",
+        "mapel": "Gapura Panca Waluya",
+        "guru": "-"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "09:20 - 10:00",
+        "code": "-",
+        "mapel": "Gapura Panca Waluya",
+        "guru": "-"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "10:00 - 10:40",
+        "code": "-",
+        "mapel": "Gapura Panca Waluya",
+        "guru": "-"
+      }
+    ]
+  },
+  "10-APHP": {
+    "Senin": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 7,
+        "mapel": "PJOK",
+        "guru": "M. AGUS HASANUDDIN, S.Pd."
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 7,
+        "mapel": "PJOK",
+        "guru": "M. AGUS HASANUDDIN, S.Pd."
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 8,
+        "mapel": "Informatika",
+        "guru": "KAMALUDIN SAYUTI, S.Pd"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 8,
+        "mapel": "Informatika",
+        "guru": "KAMALUDIN SAYUTI, S.Pd"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 8,
+        "mapel": "Informatika",
+        "guru": "KAMALUDIN SAYUTI, S.Pd"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 16,
+        "mapel": "Pendidikan Kewarganegaraan",
+        "guru": "ALDI FAREL"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 16,
+        "mapel": "Pendidikan Kewarganegaraan",
+        "guru": "ALDI FAREL"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 15,
+        "mapel": "Projek IPAS",
+        "guru": "IRMA PERMANA"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 15,
+        "mapel": "Projek IPAS",
+        "guru": "IRMA PERMANA"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 15,
+        "mapel": "Projek IPAS",
+        "guru": "IRMA PERMANA"
+      }
+    ],
+    "Selasa": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 13,
+        "mapel": "Seni budaya",
+        "guru": "SISKA PUJIANTI.M, S.Tr.Sn"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 13,
+        "mapel": "Seni budaya",
+        "guru": "SISKA PUJIANTI.M, S.Tr.Sn"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 14,
+        "mapel": "Mulok BTQ",
+        "guru": "YASIRA ABDULROHMAN"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 14,
+        "mapel": "Mulok BTQ",
+        "guru": "YASIRA ABDULROHMAN"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 5.1,
+        "mapel": "Sejarah Indonesia",
+        "guru": "UTAY, S.Pd.I."
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 5.1,
+        "mapel": "Sejarah Indonesia",
+        "guru": "UTAY, S.Pd.I."
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 4,
+        "mapel": "PAI",
+        "guru": "HERI LATIP, S.Pd.I"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 4,
+        "mapel": "PAI",
+        "guru": "HERI LATIP, S.Pd.I"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 5,
+        "mapel": "B.Sunda",
+        "guru": "UTAY, S.Pd.I."
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 5,
+        "mapel": "B.Sunda",
+        "guru": "UTAY, S.Pd.I."
+      }
+    ],
+    "Rabu": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 6,
+        "mapel": "B.Indonesia",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 6,
+        "mapel": "B.Indonesia",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 6,
+        "mapel": "B.Indonesia",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 17,
+        "mapel": "Coding & AI",
+        "guru": "JANJAN HARI SUDRAJAT, S.Kom"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 17,
+        "mapel": "Coding & AI",
+        "guru": "JANJAN HARI SUDRAJAT, S.Kom"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 3,
+        "mapel": "B.Inggris",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 3,
+        "mapel": "B.Inggris",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 3,
+        "mapel": "B.Inggris",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 2.2,
+        "mapel": "Produksi Olahan Hasil Nabati",
+        "guru": "YUSSY HERDIANI K., S.St."
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 2.2,
+        "mapel": "Produksi Olahan Hasil Nabati",
+        "guru": "YUSSY HERDIANI K., S.St."
+      }
+    ],
+    "Kamis": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 18,
+        "mapel": "Matematika",
+        "guru": "FAHMI MUFTI, S.Pd"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 18,
+        "mapel": "Matematika",
+        "guru": "FAHMI MUFTI, S.Pd"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 18,
+        "mapel": "Matematika",
+        "guru": "FAHMI MUFTI, S.Pd"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": "2.2",
+        "mapel": "Produksi Olahan Hasil Nabati",
+        "guru": "YUSSY HERDIANI K., S.ST."
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": "2.2",
+        "mapel": "Produksi Olahan Hasil Nabati",
+        "guru": "YUSSY HERDIANI K., S.ST."
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 2.2,
+        "mapel": "Produksi Olahan Hasil Nabati",
+        "guru": "YUSSY HERDIANI K., S.St."
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 15.1,
+        "mapel": "Teknik Dasar Pengolahan Hasil Pertanian",
+        "guru": "IRMA PERMANA"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 15.1,
+        "mapel": "Teknik Dasar Pengolahan Hasil Pertanian",
+        "guru": "IRMA PERMANA"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 3.2,
+        "mapel": "Produksi Olahan Hewani",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 3.2,
+        "mapel": "Produksi Olahan Hewani",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      }
+    ],
+    "Jumat": [
+      {
+        "jamKe": 1,
+        "waktu": "07:30 - 08:10",
+        "code": "-",
+        "mapel": "Gapura Panca Waluya",
+        "guru": "-"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "08:10 - 08:50",
+        "code": "-",
+        "mapel": "Gapura Panca Waluya",
+        "guru": "-"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "09:20 - 10:00",
+        "code": "-",
+        "mapel": "Gapura Panca Waluya",
+        "guru": "-"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "10:00 - 10:40",
+        "code": "-",
+        "mapel": "Gapura Panca Waluya",
+        "guru": "-"
+      }
+    ]
+  },
+  "11-TJKT": {
+    "Senin": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 18,
+        "mapel": "Matematika",
+        "guru": "FAHMI MUFTI, S.Pd"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 18,
+        "mapel": "Matematika",
+        "guru": "FAHMI MUFTI, S.Pd"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 19,
+        "mapel": "Pendidikan Kewarganegaraan",
+        "guru": "ALDI RAMADHAN, S.H"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 19,
+        "mapel": "Pendidikan Kewarganegaraan",
+        "guru": "ALDI RAMADHAN, S.H"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 3,
+        "mapel": "B.Inggris",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 3,
+        "mapel": "B.Inggris",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 3,
+        "mapel": "B.Inggris",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 11.3,
+        "mapel": "Desain Grafis (Mapel Pilihan)",
+        "guru": "ANTON, S.Pd"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 11.3,
+        "mapel": "Desain Grafis (Mapel Pilihan)",
+        "guru": "ANTON, S.Pd"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 11.3,
+        "mapel": "Desain Grafis (Mapel Pilihan)",
+        "guru": "ANTON, S.Pd"
+      }
+    ],
+    "Selasa": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 14,
+        "mapel": "Mulok BTQ",
+        "guru": "YASIRA ABDULROHMAN"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 14,
+        "mapel": "Mulok BTQ",
+        "guru": "YASIRA ABDULROHMAN"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 5.1,
+        "mapel": "Sejarah Indonesia",
+        "guru": "UTAY, S.Pd.I."
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 5.1,
+        "mapel": "Sejarah Indonesia",
+        "guru": "UTAY, S.Pd.I."
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 4,
+        "mapel": "PAI",
+        "guru": "HERI LATIP, S.Pd.I"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 4,
+        "mapel": "PAI",
+        "guru": "HERI LATIP, S.Pd.I"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 6,
+        "mapel": "B.Indonesia",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 6,
+        "mapel": "B.Indonesia",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 7,
+        "mapel": "PJOK",
+        "guru": "M. AGUS HASANUDDIN, S.Pd."
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 7,
+        "mapel": "PJOK",
+        "guru": "M. AGUS HASANUDDIN, S.Pd."
+      }
+    ],
+    "Rabu": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 17.2,
+        "mapel": "Keamanan Jaringan",
+        "guru": "JANJAN HARI SUDRAJAT, S.Kom"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 17.2,
+        "mapel": "Keamanan Jaringan",
+        "guru": "JANJAN HARI SUDRAJAT, S.Kom"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 17.2,
+        "mapel": "Keamanan Jaringan",
+        "guru": "JANJAN HARI SUDRAJAT, S.Kom"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 11.2,
+        "mapel": "Teknologi Jaringan Kabel & Nirkabel",
+        "guru": "ANTON, S.Pd"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 11.2,
+        "mapel": "Teknologi Jaringan Kabel & Nirkabel",
+        "guru": "ANTON, S.Pd"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 5,
+        "mapel": "B.Sunda",
+        "guru": "UTAY, S.Pd.I."
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 5,
+        "mapel": "B.Sunda",
+        "guru": "UTAY, S.Pd.I."
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 17.3,
+        "mapel": "Media & Jaringan Telekomunikasi",
+        "guru": "JANJAN HARI SUDRAJAT, S.Kom"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 17.3,
+        "mapel": "Media & Jaringan Telekomunikasi",
+        "guru": "JANJAN HARI SUDRAJAT, S.Kom"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 17.3,
+        "mapel": "Media & Jaringan Telekomunikasi",
+        "guru": "JANJAN HARI SUDRAJAT, S.Kom"
+      }
+    ],
+    "Kamis": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 11.1,
+        "mapel": "Konfigurasi Perangkat Jaringan",
+        "guru": "ANTON, S.Pd"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 11.1,
+        "mapel": "Konfigurasi Perangkat Jaringan",
+        "guru": "ANTON, S.Pd"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 11.1,
+        "mapel": "Konfigurasi Perangkat Jaringan",
+        "guru": "ANTON, S.Pd"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 11.2,
+        "mapel": "Teknologi Jaringan Kabel & Nirkabel",
+        "guru": "ANTON, S.Pd"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 8.3,
+        "mapel": "Perencanaan & Pengalamatan Jaringan",
+        "guru": "KAMALUDIN SAYUTI, S.Pd"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 8.3,
+        "mapel": "Perencanaan & Pengalamatan Jaringan",
+        "guru": "KAMALUDIN SAYUTI, S.Pd"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 8.3,
+        "mapel": "Perencanaan & Pengalamatan Jaringan",
+        "guru": "KAMALUDIN SAYUTI, S.Pd"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 12,
+        "mapel": "Kewirausahaan",
+        "guru": "SITI AISAH, N S.Pd.I"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 12,
+        "mapel": "Kewirausahaan",
+        "guru": "SITI AISAH, N S.Pd.I"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 12,
+        "mapel": "Kewirausahaan",
+        "guru": "SITI AISAH, N S.Pd.I"
+      }
+    ],
+    "Jumat": [
+      {
+        "jamKe": 1,
+        "waktu": "07:30 - 08:10",
+        "code": "-",
+        "mapel": "Mata Pelajaran Pilihan",
+        "guru": "-"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "08:10 - 08:50",
+        "code": "-",
+        "mapel": "Mata Pelajaran Pilihan",
+        "guru": "-"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "09:20 - 10:00",
+        "code": "-",
+        "mapel": "Mata Pelajaran Pilihan",
+        "guru": "-"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "10:00 - 10:40",
+        "code": "-",
+        "mapel": "Mata Pelajaran Pilihan",
+        "guru": "-"
+      }
+    ]
+  }, 
+
+  "11-FARMASI": {
+    "Senin": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 18,
+        "mapel": "Matematika",
+        "guru": "FAHMI MUFTI, S.Pd"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 18,
+        "mapel": "Matematika",
+        "guru": "FAHMI MUFTI, S.Pd"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 19,
+        "mapel": "Pendidikan Kewarganegaraan",
+        "guru": "ALDI RAMADHAN, S.H"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 19,
+        "mapel": "Pendidikan Kewarganegaraan",
+        "guru": "ALDI RAMADHAN, S.H"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 3,
+        "mapel": "B.Inggris",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 3,
+        "mapel": "B.Inggris",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 3,
+        "mapel": "B.Inggris",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 10.3,
+        "mapel": "Administrasi & Pelayanan Farmasi",
+        "guru": "EKA NOFIYANTI, A.Md.Ak"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 10.3,
+        "mapel": "Administrasi & Pelayanan Farmasi",
+        "guru": "EKA NOFIYANTI, A.Md.Ak"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 10.3,
+        "mapel": "Administrasi & Pelayanan Farmasi",
+        "guru": "EKA NOFIYANTI, A.Md.Ak"
+      }
+    ],
+    "Selasa": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 14,
+        "mapel": "Mulok BTQ",
+        "guru": "YASIRA ABDULROHMAN"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 14,
+        "mapel": "Mulok BTQ",
+        "guru": "YASIRA ABDULROHMAN"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 5.1,
+        "mapel": "Sejarah Indonesia",
+        "guru": "UTAY, S.Pd.I."
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 5.1,
+        "mapel": "Sejarah Indonesia",
+        "guru": "UTAY, S.Pd.I."
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 4,
+        "mapel": "PAI",
+        "guru": "HERI LATIP, S.Pd.I"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 4,
+        "mapel": "PAI",
+        "guru": "HERI LATIP, S.Pd.I"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 6,
+        "mapel": "B.Indonesia",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 6,
+        "mapel": "B.Indonesia",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 7,
+        "mapel": "PJOK",
+        "guru": "M. AGUS HASANUDDIN, S.Pd."
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 7,
+        "mapel": "PJOK",
+        "guru": "M. AGUS HASANUDDIN, S.Pd."
+      }
+    ],
+    "Rabu": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 10.2,
+        "mapel": "Farmakologi",
+        "guru": "EKA NOFIYANTI, A.Md.Ak"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 10.2,
+        "mapel": "Farmakologi",
+        "guru": "EKA NOFIYANTI, A.Md.Ak"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 10.2,
+        "mapel": "Farmakologi",
+        "guru": "EKA NOFIYANTI, A.Md.Ak"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 6.2,
+        "mapel": "Farmakognosi",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 6.2,
+        "mapel": "Farmakognosi",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 5,
+        "mapel": "B.Sunda",
+        "guru": "UTAY, S.Pd.I."
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 5,
+        "mapel": "B.Sunda",
+        "guru": "UTAY, S.Pd.I."
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 13.3,
+        "mapel": "Pengolahan Herbal (Mapel Pilihan)",
+        "guru": "SISKA PUJIANTI.M, S.Tr.Sn"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 13.3,
+        "mapel": "Pengolahan Herbal (Mapel Pilihan)",
+        "guru": "SISKA PUJIANTI.M, S.Tr.Sn"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 17.3,
+        "mapel": "Media & Jaringan Telekomunikasi",
+        "guru": "JANJAN HARI SUDRAJAT, S.Kom"
+      }
+    ],
+    "Kamis": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 10.3,
+        "mapel": "Administrasi & Pelayanan Farmasi",
+        "guru": "EKA NOFIYANTI, A.Md.Ak"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 10.2,
+        "mapel": "Farmakologi",
+        "guru": "EKA NOFIYANTI, A.Md.Ak"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 10.2,
+        "mapel": "Farmakologi",
+        "guru": "EKA NOFIYANTI, A.Md.Ak"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 13.3,
+        "mapel": "Pengolahan Herbal (Mapel Pilihan)",
+        "guru": "SISKA PUJIANTI.M, S.Tr.Sn"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 13.3,
+        "mapel": "Pengolahan Herbal (Mapel Pilihan)",
+        "guru": "SISKA PUJIANTI.M, S.Tr.Sn"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 13.3,
+        "mapel": "Pengolahan Herbal (Mapel Pilihan)",
+        "guru": "SISKA PUJIANTI.M, S.Tr.Sn"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 13.3,
+        "mapel": "Pengolahan Herbal (Mapel Pilihan)",
+        "guru": "SISKA PUJIANTI.M, S.Tr.Sn"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 12,
+        "mapel": "Kewirausahaan",
+        "guru": "SITI AISAH, N S.Pd.I"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 12,
+        "mapel": "Kewirausahaan",
+        "guru": "SITI AISAH, N S.Pd.I"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 12,
+        "mapel": "Kewirausahaan",
+        "guru": "SITI AISAH, N S.Pd.I"
+      }
+    ],
+    "Jumat": [
+      {
+        "jamKe": 1,
+        "waktu": "07:30 - 08:10",
+        "code": "-",
+        "mapel": "Mata Pelajaran Pilihan",
+        "guru": "-"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "08:10 - 08:50",
+        "code": "-",
+        "mapel": "Mata Pelajaran Pilihan",
+        "guru": "-"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "09:20 - 10:00",
+        "code": "-",
+        "mapel": "Mata Pelajaran Pilihan",
+        "guru": "-"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "10:00 - 10:40",
+        "code": "-",
+        "mapel": "Mata Pelajaran Pilihan",
+        "guru": "-"
+      }
+    ]
+  },
+  "11-TO": {
+    "Senin": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 18,
+        "mapel": "Matematika",
+        "guru": "FAHMI MUFTI, S.Pd"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 18,
+        "mapel": "Matematika",
+        "guru": "FAHMI MUFTI, S.Pd"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 19,
+        "mapel": "Pendidikan Kewarganegaraan",
+        "guru": "ALDI RAMADHAN, S.H"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 19,
+        "mapel": "Pendidikan Kewarganegaraan",
+        "guru": "ALDI RAMADHAN, S.H"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 3,
+        "mapel": "B.Inggris",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 3,
+        "mapel": "B.Inggris",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 3,
+        "mapel": "B.Inggris",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 9.2,
+        "mapel": "Perawatan, Perbaikan Sistem Pemindah",
+        "guru": "REKHA AHMAD F., S.Pd"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 9.2,
+        "mapel": "Perawatan, Perbaikan Sistem Pemindah",
+        "guru": "REKHA AHMAD F., S.Pd"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 9.2,
+        "mapel": "Perawatan, Perbaikan Sistem Pemindah",
+        "guru": "REKHA AHMAD F., S.Pd"
+      }
+    ],
+    "Selasa": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 14,
+        "mapel": "Mulok BTQ",
+        "guru": "YASIRA ABDULROHMAN"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 14,
+        "mapel": "Mulok BTQ",
+        "guru": "YASIRA ABDULROHMAN"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 5.1,
+        "mapel": "Sejarah Indonesia",
+        "guru": "UTAY, S.Pd.I."
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 5.1,
+        "mapel": "Sejarah Indonesia",
+        "guru": "UTAY, S.Pd.I."
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 4,
+        "mapel": "PAI",
+        "guru": "HERI LATIP, S.Pd.I"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 4,
+        "mapel": "PAI",
+        "guru": "HERI LATIP, S.Pd.I"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 6,
+        "mapel": "B.Indonesia",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 6,
+        "mapel": "B.Indonesia",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 7,
+        "mapel": "PJOK",
+        "guru": "M. AGUS HASANUDDIN, S.Pd."
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 7,
+        "mapel": "PJOK",
+        "guru": "M. AGUS HASANUDDIN, S.Pd."
+      }
+    ],
+    "Rabu": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 7.1,
+        "mapel": "Perawatan&Perbaikan Sasis",
+        "guru": "M. AGUS HASANUDDIN, S.Pd."
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 7.1,
+        "mapel": "Perawatan&Perbaikan Sasis",
+        "guru": "M. AGUS HASANUDDIN, S.Pd."
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 7.1,
+        "mapel": "Perawatan&Perbaikan Sasis",
+        "guru": "M. AGUS HASANUDDIN, S.Pd."
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": "21.1",
+        "mapel": "perawatan&perbaikan sistem pemindah",
+        "guru": "BAYU"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": "21.1",
+        "mapel": "perawatan&perbaikan sistem pemindah",
+        "guru": "BAYU"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 5,
+        "mapel": "B.Sunda",
+        "guru": "UTAY, S.Pd.I."
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 5,
+        "mapel": "B.Sunda",
+        "guru": "UTAY, S.Pd.I."
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 19.2,
+        "mapel": "Perawatan&Perbaikan Engine",
+        "guru": "ALDI RAMADHAN, S.H"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 19.2,
+        "mapel": "Perawatan&Perbaikan Engine",
+        "guru": "ALDI RAMADHAN, S.H"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 19.2,
+        "mapel": "Perawatan&Perbaikan Engine",
+        "guru": "ALDI RAMADHAN, S.H"
+      }
+    ],
+    "Kamis": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 7.2,
+        "mapel": "Pengelolaan Bengkel Sepeda Motor",
+        "guru": "M. AGUS HASANUDDIN, S.Pd."
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 7.2,
+        "mapel": "Pengelolaan Bengkel Sepeda Motor",
+        "guru": "M. AGUS HASANUDDIN, S.Pd."
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 7.2,
+        "mapel": "Pengelolaan Bengkel Sepeda Motor",
+        "guru": "M. AGUS HASANUDDIN, S.Pd."
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 21,
+        "mapel": "Perawatan&Perbaikan Sistem Kelistrikan",
+        "guru": "BAYU"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 21,
+        "mapel": "Perawatan&Perbaikan Sistem Kelistrikan",
+        "guru": "BAYU"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 21,
+        "mapel": "Perawatan&Perbaikan Sistem Kelistrikan",
+        "guru": "BAYU"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 21,
+        "mapel": "Perawatan&Perbaikan Sistem Kelistrikan",
+        "guru": "BAYU"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 12,
+        "mapel": "Kewirausahaan",
+        "guru": "SITI AISAH, N S.Pd.I"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 12,
+        "mapel": "Kewirausahaan",
+        "guru": "SITI AISAH, N S.Pd.I"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 12,
+        "mapel": "Kewirausahaan",
+        "guru": "SITI AISAH, N S.Pd.I"
+      }
+    ],
+    "Jumat": [
+      {
+        "jamKe": 1,
+        "waktu": "07:30 - 08:10",
+        "code": "-",
+        "mapel": "Mata Pelajaran Pilihan",
+        "guru": "-"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "08:10 - 08:50",
+        "code": "-",
+        "mapel": "Mata Pelajaran Pilihan",
+        "guru": "-"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "09:20 - 10:00",
+        "code": "-",
+        "mapel": "Mata Pelajaran Pilihan",
+        "guru": "-"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "10:00 - 10:40",
+        "code": "-",
+        "mapel": "Mata Pelajaran Pilihan",
+        "guru": "-"
+      }
+    ]
+  },
+
+  "12-TJKT": {
+    "Senin": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 19,
+        "mapel": "Pendidikan Kewarganegaraan",
+        "guru": "ALDI RAMADHAN, S.H"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 19,
+        "mapel": "Pendidikan Kewarganegaraan",
+        "guru": "ALDI RAMADHAN, S.H"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 18,
+        "mapel": "Matematika",
+        "guru": "FAHMI MUFTI, S.Pd"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 18,
+        "mapel": "Matematika",
+        "guru": "FAHMI MUFTI, S.Pd"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 11.1,
+        "mapel": "Konfigurasi Perangkat Jaringan",
+        "guru": "ANTON, S.Pd"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 11.1,
+        "mapel": "Konfigurasi Perangkat Jaringan",
+        "guru": "ANTON, S.Pd"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 11.1,
+        "mapel": "Konfigurasi Perangkat Jaringan",
+        "guru": "ANTON, S.Pd"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 11.1,
+        "mapel": "Konfigurasi Perangkat Jaringan",
+        "guru": "ANTON, S.Pd"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 3,
+        "mapel": "B.Inggris",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 3,
+        "mapel": "B.Inggris",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      }
+    ],
+    "Selasa": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 6,
+        "mapel": "B.Indonesia",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 6,
+        "mapel": "B.Indonesia",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 4,
+        "mapel": "PAI",
+        "guru": "HERI LATIP, S.Pd.I"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 4,
+        "mapel": "PAI",
+        "guru": "HERI LATIP, S.Pd.I"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 17.2,
+        "mapel": "Keamanan Jaringan",
+        "guru": "JANJAN HARI SUDRAJAT, S.Kom"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 17.2,
+        "mapel": "Keamanan Jaringan",
+        "guru": "JANJAN HARI SUDRAJAT, S.Kom"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 17.2,
+        "mapel": "Keamanan Jaringan",
+        "guru": "JANJAN HARI SUDRAJAT, S.Kom"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 11.3,
+        "mapel": "Desain Grafis (Mapel Pilihan)",
+        "guru": "ANTON, S.Pd"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 11.3,
+        "mapel": "Desain Grafis (Mapel Pilihan)",
+        "guru": "ANTON, S.Pd"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 11.3,
+        "mapel": "Desain Grafis (Mapel Pilihan)",
+        "guru": "ANTON, S.Pd"
+      }
+    ],
+    "Rabu": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 14,
+        "mapel": "Mulok BTQ",
+        "guru": "YASIRA ABDULROHMAN"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 14,
+        "mapel": "Mulok BTQ",
+        "guru": "YASIRA ABDULROHMAN"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 12,
+        "mapel": "Kewirausahaan",
+        "guru": "SITI AISAH, N S.Pd.I"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 12,
+        "mapel": "Kewirausahaan",
+        "guru": "SITI AISAH, N S.Pd.I"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 12,
+        "mapel": "Kewirausahaan",
+        "guru": "SITI AISAH, N S.Pd.I"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 12,
+        "mapel": "Kewirausahaan",
+        "guru": "SITI AISAH, N S.Pd.I"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 11.2,
+        "mapel": "Teknologi Jaringan Kabel & Nirkabel",
+        "guru": "ANTON, S.Pd"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 11.2,
+        "mapel": "Teknologi Jaringan Kabel & Nirkabel",
+        "guru": "ANTON, S.Pd"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 11.2,
+        "mapel": "Teknologi Jaringan Kabel & Nirkabel",
+        "guru": "ANTON, S.Pd"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 11.2,
+        "mapel": "Teknologi Jaringan Kabel & Nirkabel",
+        "guru": "ANTON, S.Pd"
+      }
+    ],
+    "Kamis": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 8.3,
+        "mapel": "Perencanaan & Pengalamatan Jaringan",
+        "guru": "KAMALUDIN SAYUTI, S.Pd"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 8.3,
+        "mapel": "Perencanaan & Pengalamatan Jaringan",
+        "guru": "KAMALUDIN SAYUTI, S.Pd"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 8.3,
+        "mapel": "Perencanaan & Pengalamatan Jaringan",
+        "guru": "KAMALUDIN SAYUTI, S.Pd"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 17.3,
+        "mapel": "Media & Jaringan Telekomunikasi",
+        "guru": "JANJAN HARI SUDRAJAT, S.Kom"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 17.3,
+        "mapel": "Media & Jaringan Telekomunikasi",
+        "guru": "JANJAN HARI SUDRAJAT, S.Kom"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 17.3,
+        "mapel": "Media & Jaringan Telekomunikasi",
+        "guru": "JANJAN HARI SUDRAJAT, S.Kom"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 11.2,
+        "mapel": "Teknologi Jaringan Kabel & Nirkabel",
+        "guru": "ANTON, S.Pd"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 11.2,
+        "mapel": "Teknologi Jaringan Kabel & Nirkabel",
+        "guru": "ANTON, S.Pd"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 11.2,
+        "mapel": "Teknologi Jaringan Kabel & Nirkabel",
+        "guru": "ANTON, S.Pd"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 11.2,
+        "mapel": "Teknologi Jaringan Kabel & Nirkabel",
+        "guru": "ANTON, S.Pd"
+      }
+    ],
+    "Jumat": [
+      {
+        "jamKe": 1,
+        "waktu": "07:30 - 08:10",
+        "code": "-",
+        "mapel": "MTK/Pkn",
+        "guru": "-"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "08:10 - 08:50",
+        "code": "-",
+        "mapel": "MTK/Pkn",
+        "guru": "-"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "09:20 - 10:00",
+        "code": "-",
+        "mapel": "B.Inggris/B.Indo",
+        "guru": "-"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "10:00 - 10:40",
+        "code": "-",
+        "mapel": "B.Inggris/B.Indo",
+        "guru": "-"
+      }
+    ]
+  },
+  "12-TO": {
+    "Senin": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 19,
+        "mapel": "Pendidikan Kewarganegaraan",
+        "guru": "ALDI RAMADHAN, S.H"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 19,
+        "mapel": "Pendidikan Kewarganegaraan",
+        "guru": "ALDI RAMADHAN, S.H"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 18,
+        "mapel": "Matematika",
+        "guru": "FAHMI MUFTI, S.Pd"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 18,
+        "mapel": "Matematika",
+        "guru": "FAHMI MUFTI, S.Pd"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 7.2,
+        "mapel": "Pengelolaan Bengkel Sepeda Motor",
+        "guru": "M. AGUS HASANUDDIN, S.Pd"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 7.2,
+        "mapel": "Pengelolaan Bengkel Sepeda Motor",
+        "guru": "M. AGUS HASANUDDIN, S.Pd"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 7.2,
+        "mapel": "Pengelolaan Bengkel Sepeda Motor",
+        "guru": "M. AGUS HASANUDDIN, S.Pd"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 7.2,
+        "mapel": "Pengelolaan Bengkel Sepeda Motor",
+        "guru": "M. AGUS HASANUDDIN, S.Pd"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 3,
+        "mapel": "B.Inggris",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 3,
+        "mapel": "B.Inggris",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      }
+    ],
+    "Selasa": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 6,
+        "mapel": "B.Indonesia",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 6,
+        "mapel": "B.Indonesia",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 4,
+        "mapel": "PAI",
+        "guru": "HERI LATIP, S.Pd.I"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 4,
+        "mapel": "PAI",
+        "guru": "HERI LATIP, S.Pd.I"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 21.1,
+        "mapel": "Perawatan&Perbaikan Sistem Pemindah",
+        "guru": "BAYU"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 21.1,
+        "mapel": "Perawatan&Perbaikan Sistem Pemindah",
+        "guru": "BAYU"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 21.1,
+        "mapel": "Perawatan&Perbaikan Sistem Pemindah",
+        "guru": "BAYU"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 21.1,
+        "mapel": "Perawatan&Perbaikan Sistem Pemindah",
+        "guru": "BAYU"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 9.1,
+        "mapel": "Perawatan&Perbaikan Sistem Kelistrikan",
+        "guru": "REKHA AHMAD F., S.Pd"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 9.1,
+        "mapel": "Perawatan&Perbaikan Sistem Kelistrikan",
+        "guru": "REKHA AHMAD F., S.Pd"
+      }
+    ],
+    "Rabu": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 14,
+        "mapel": "Mulok BTQ",
+        "guru": "YASIRA ABDULROHMAN"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 14,
+        "mapel": "Mulok BTQ",
+        "guru": "YASIRA ABDULROHMAN"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 12,
+        "mapel": "Kewirausahaan",
+        "guru": "SITI AISAH, N S.Pd.I"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 12,
+        "mapel": "Kewirausahaan",
+        "guru": "SITI AISAH, N S.Pd.I"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 12,
+        "mapel": "Kewirausahaan",
+        "guru": "SITI AISAH, N S.Pd.I"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 12,
+        "mapel": "Kewirausahaan",
+        "guru": "SITI AISAH, N S.Pd.I"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 9.2,
+        "mapel": "Perawatan, Perbaikan Sistem Pemindah",
+        "guru": "REKHA AHMAD F., S.Pd"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 19.2,
+        "mapel": "Perawatan&Perbaikan Engine",
+        "guru": "ALDI RAMADHAN, S.H"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 9.1,
+        "mapel": "Perawatan&Perbaikan Sistem Kelistrikan",
+        "guru": "REKHA AHMAD F., S.Pd"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 9.1,
+        "mapel": "Perawatan&Perbaikan Sistem Kelistrikan",
+        "guru": "REKHA AHMAD F., S.Pd"
+      }
+    ],
+    "Kamis": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 19.2,
+        "mapel": "Perawatan&Perbaikan Engine",
+        "guru": "ALDI RAMADHAN, S.H"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 19.2,
+        "mapel": "Perawatan&Perbaikan Engine",
+        "guru": "ALDI RAMADHAN, S.H"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 7.1,
+        "mapel": "Perawatan&Perbaikan Sasis",
+        "guru": "M. AGUS HASANUDDIN, S.Pd"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 7.1,
+        "mapel": "Perawatan&Perbaikan Sasis",
+        "guru": "M. AGUS HASANUDDIN, S.Pd"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 7.1,
+        "mapel": "Perawatan&Perbaikan Sasis",
+        "guru": "M. AGUS HASANUDDIN, S.Pd"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 7.1,
+        "mapel": "Perawatan&Perbaikan Sasis",
+        "guru": "M. AGUS HASANUDDIN, S.Pd"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 21,
+        "mapel": "Perawatan&Perbaikan Sistem Kelistrikan",
+        "guru": "BAYU"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 21,
+        "mapel": "Perawatan&Perbaikan Sistem Kelistrikan",
+        "guru": "BAYU"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 21,
+        "mapel": "Perawatan&Perbaikan Sistem Kelistrikan",
+        "guru": "BAYU"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 21,
+        "mapel": "Perawatan&Perbaikan Sistem Kelistrikan",
+        "guru": "BAYU"
+      }
+    ],
+    "Jumat": [
+      {
+        "jamKe": 1,
+        "waktu": "07:30 - 08:10",
+        "code": "-",
+        "mapel": "MTK/Pkn",
+        "guru": "-"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "08:10 - 08:50",
+        "code": "-",
+        "mapel": "MTK/Pkn",
+        "guru": "-"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "09:20 - 10:00",
+        "code": "-",
+        "mapel": "B.Inggris/B.Indo",
+        "guru": "-"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "10:00 - 10:40",
+        "code": "-",
+        "mapel": "B.Inggris/B.Indo",
+        "guru": "-"
+      }
+    ]
+  }, 
+
+  "12-Farmasi": {
+    "Senin": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 6.2,
+        "mapel": "Farmakognosi",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 6.2,
+        "mapel": "Farmakognosi",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 6.2,
+        "mapel": "Farmakognosi",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 6.2,
+        "mapel": "Farmakognosi",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 18,
+        "mapel": "Matematika",
+        "guru": "FAHMI MUFTI, S.Pd"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 18,
+        "mapel": "Matematika",
+        "guru": "FAHMI MUFTI, S.Pd"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 13.3,
+        "mapel": "Pengolahan Herbal (Mapel Pilihan)",
+        "guru": "SISKA PUJIANTI.M, S.Tr.Sn"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 13.3,
+        "mapel": "Pengolahan Herbal (Mapel Pilihan)",
+        "guru": "SISKA PUJIANTI.M, S.Tr.Sn"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 13.3,
+        "mapel": "Pengolahan Herbal (Mapel Pilihan)",
+        "guru": "SISKA PUJIANTI.M, S.Tr.Sn"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 13.3,
+        "mapel": "Pengolahan Herbal (Mapel Pilihan)",
+        "guru": "SISKA PUJIANTI.M, S.Tr.Sn"
+      }
+    ],
+    "Selasa": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 4,
+        "mapel": "PAI",
+        "guru": "HERI LATIP, S.Pd.I"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 4,
+        "mapel": "PAI",
+        "guru": "HERI LATIP, S.Pd.I"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 6,
+        "mapel": "B.Indonesia",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 6,
+        "mapel": "B.Indonesia",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 10.3,
+        "mapel": "Administrasi & Pelayanan Farmasi",
+        "guru": "EKA NOFIYANTI, A.Md.Ak"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 10.3,
+        "mapel": "Administrasi & Pelayanan Farmasi",
+        "guru": "EKA NOFIYANTI, A.Md.Ak"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 10.2,
+        "mapel": "Farmakologi",
+        "guru": "EKA NOFIYANTI, A.Md.Ak"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 10.2,
+        "mapel": "Farmakologi",
+        "guru": "EKA NOFIYANTI, A.Md.Ak"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 10.2,
+        "mapel": "Farmakologi",
+        "guru": "EKA NOFIYANTI, A.Md.Ak"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 10.2,
+        "mapel": "Farmakologi",
+        "guru": "EKA NOFIYANTI, A.Md.Ak"
+      }
+    ],
+    "Rabu": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 19,
+        "mapel": "Pendidikan Kewarganegaraan",
+        "guru": "ALDI RAMADHAN, S.H"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 19,
+        "mapel": "Pendidikan Kewarganegaraan",
+        "guru": "ALDI RAMADHAN, S.H"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 3,
+        "mapel": "B.Inggris",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 3,
+        "mapel": "B.Inggris",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 6.2,
+        "mapel": "Farmakognosi",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 6.2,
+        "mapel": "Farmakognosi",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 10.1,
+        "mapel": "Kimia Farmasi&Analis",
+        "guru": "EKA NOFIYANTI, A.Md.Ak"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 10.1,
+        "mapel": "Kimia Farmasi&Analis",
+        "guru": "EKA NOFIYANTI, A.Md.Ak"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 10.1,
+        "mapel": "Kimia Farmasi&Analis",
+        "guru": "EKA NOFIYANTI, A.Md.Ak"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 10.1,
+        "mapel": "Kimia Farmasi&Analis",
+        "guru": "EKA NOFIYANTI, A.Md.Ak"
+      }
+    ],
+    "Kamis": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 12,
+        "mapel": "Kewirausahaan",
+        "guru": "SITI AISAH, N S.Pd.I"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 12,
+        "mapel": "Kewirausahaan",
+        "guru": "SITI AISAH, N S.Pd.I"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 12,
+        "mapel": "Kewirausahaan",
+        "guru": "SITI AISAH, N S.Pd.I"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 12,
+        "mapel": "Kewirausahaan",
+        "guru": "SITI AISAH, N S.Pd.I"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "14",
+        "mapel": "Mulok BTQ",
+        "guru": "YASIRA ABDULROHMAN"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 14,
+        "mapel": "Mulok BTQ",
+        "guru": "YASIRA ABDULROHMAN"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 10.2,
+        "mapel": "Farmakologi",
+        "guru": "EKA NOFIYANTI, A.Md.Ak"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 10.2,
+        "mapel": "Farmakologi",
+        "guru": "EKA NOFIYANTI, A.Md.Ak"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 10.3,
+        "mapel": "Administrasi & Pelayanan Farmasi",
+        "guru": "EKA NOFIYANTI, A.Md.Ak"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 10.3,
+        "mapel": "Administrasi & Pelayanan Farmasi",
+        "guru": "EKA NOFIYANTI, A.Md.Ak"
+      }
+    ],
+    "Jumat": [
+      {
+        "jamKe": 1,
+        "waktu": "07:30 - 08:10",
+        "code": "-",
+        "mapel": "B.Indo/B.Inggris",
+        "guru": "-"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "08:10 - 08:50",
+        "code": "-",
+        "mapel": "B.Indo/B.Inggris",
+        "guru": "-"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "09:20 - 10:00",
+        "code": "-",
+        "mapel": "Pkn/MTK",
+        "guru": "-"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "10:00 - 10:40",
+        "code": "-",
+        "mapel": "Pkn/MTK",
+        "guru": "-"
+      }
+    ]
+  },
+  "12-APHP": {
+    "Senin": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 15.2,
+        "mapel": "Penanganan Pasca Panen Komoditas P",
+        "guru": "IRMA PERMANA"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 15.2,
+        "mapel": "Penanganan Pasca Panen Komoditas P",
+        "guru": "IRMA PERMANA"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 15.2,
+        "mapel": "Penanganan Pasca Panen Komoditas P",
+        "guru": "IRMA PERMANA"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 15.2,
+        "mapel": "Penanganan Pasca Panen Komoditas P",
+        "guru": "IRMA PERMANA"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 18,
+        "mapel": "Matematika",
+        "guru": "FAHMI MUFTI, S.Pd"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 18,
+        "mapel": "Matematika",
+        "guru": "FAHMI MUFTI, S.Pd"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 2.3,
+        "mapel": "Keamanan Pangan",
+        "guru": "YUSSY HERDIANI K., S.St."
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 2.3,
+        "mapel": "Keamanan Pangan",
+        "guru": "YUSSY HERDIANI K., S.St."
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 2.3,
+        "mapel": "Keamanan Pangan",
+        "guru": "YUSSY HERDIANI K., S.St."
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 2.3,
+        "mapel": "Keamanan Pangan",
+        "guru": "YUSSY HERDIANI K., S.St."
+      }
+    ],
+    "Selasa": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 4,
+        "mapel": "PAI",
+        "guru": "HERI LATIP, S.Pd.I"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 4,
+        "mapel": "PAI",
+        "guru": "HERI LATIP, S.Pd.I"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 6,
+        "mapel": "B.Indonesia",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 6,
+        "mapel": "B.Indonesia",
+        "guru": "LASMANAH, S.Pd"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 15.2,
+        "mapel": "Penanganan Pasca Panen Komoditas P",
+        "guru": "IRMA PERMANA"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 15.2,
+        "mapel": "Penanganan Pasca Panen Komoditas P",
+        "guru": "IRMA PERMANA"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 2.2,
+        "mapel": "Produksi Olahan Hasil Nabati",
+        "guru": "YUSSY HERDIANI K., S.St."
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 2.2,
+        "mapel": "Produksi Olahan Hasil Nabati",
+        "guru": "YUSSY HERDIANI K., S.St."
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 2.2,
+        "mapel": "Produksi Olahan Hasil Nabati",
+        "guru": "YUSSY HERDIANI K., S.St."
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 2.2,
+        "mapel": "Produksi Olahan Hasil Nabati",
+        "guru": "YUSSY HERDIANI K., S.St."
+      }
+    ],
+    "Rabu": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 19,
+        "mapel": "Pendidikan Kewarganegaraan",
+        "guru": "ALDI RAMADHAN, S.H"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 19,
+        "mapel": "Pendidikan Kewarganegaraan",
+        "guru": "ALDI RAMADHAN, S.H"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 3,
+        "mapel": "B.Inggris",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 3,
+        "mapel": "B.Inggris",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 2.2,
+        "mapel": "Produksi Olahan Hasil Nabati",
+        "guru": "YUSSY HERDIANI K., S.St."
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 2.2,
+        "mapel": "Produksi Olahan Hasil Nabati",
+        "guru": "YUSSY HERDIANI K., S.St."
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 15.2,
+        "mapel": "Penanganan Pasca Panen Komoditas P",
+        "guru": "IRMA PERMANA"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 15.2,
+        "mapel": "Penanganan Pasca Panen Komoditas P",
+        "guru": "IRMA PERMANA"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 3.2,
+        "mapel": "Produksi Olahan Hewani",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 3.2,
+        "mapel": "Produksi Olahan Hewani",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      }
+    ],
+    "Kamis": [
+      {
+        "jamKe": 1,
+        "waktu": "07:15 - 07:55",
+        "code": 12,
+        "mapel": "Kewirausahaan",
+        "guru": "SITI AISAH, N S.Pd.I"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "07:55 - 08:35",
+        "code": 12,
+        "mapel": "Kewirausahaan",
+        "guru": "SITI AISAH, N S.Pd.I"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "08:35 - 09:15",
+        "code": 12,
+        "mapel": "Kewirausahaan",
+        "guru": "SITI AISAH, N S.Pd.I"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "09:15 - 09:55",
+        "code": 12,
+        "mapel": "Kewirausahaan",
+        "guru": "SITI AISAH, N S.Pd.I"
+      },
+      {
+        "jamKe": 5,
+        "waktu": "10:15 - 10:55",
+        "code": 14,
+        "mapel": "Mulok BTQ",
+        "guru": "YASIRA ABDULROHMAN"
+      },
+      {
+        "jamKe": 6,
+        "waktu": "10:55 - 11:35",
+        "code": 14,
+        "mapel": "Mulok BTQ",
+        "guru": "YASIRA ABDULROHMAN"
+      },
+      {
+        "jamKe": 7,
+        "waktu": "11:35 - 12:15",
+        "code": 3.2,
+        "mapel": "Produksi Olahan Hewani",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      },
+      {
+        "jamKe": 8,
+        "waktu": "12:45 - 13:20",
+        "code": 3.2,
+        "mapel": "Produksi Olahan Hewani",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      },
+      {
+        "jamKe": 9,
+        "waktu": "13:20 - 14:00",
+        "code": 3.2,
+        "mapel": "Produksi Olahan Hewani",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      },
+      {
+        "jamKe": 10,
+        "waktu": "14:00 - 14:40",
+        "code": 3.2,
+        "mapel": "Produksi Olahan Hewani",
+        "guru": "NUR ROSIDAH, S.Pd. Gr"
+      }
+    ],
+    "Jumat": [
+      {
+        "jamKe": 1,
+        "waktu": "07:30 - 08:10",
+        "code": "-",
+        "mapel": "B.Indo/B.Inggris",
+        "guru": "-"
+      },
+      {
+        "jamKe": 2,
+        "waktu": "08:10 - 08:50",
+        "code": "-",
+        "mapel": "B.Indo/B.Inggris",
+        "guru": "-"
+      },
+      {
+        "jamKe": 3,
+        "waktu": "09:20 - 10:00",
+        "code": "-",
+        "mapel": "Pkn/MTK",
+        "guru": "-"
+      },
+      {
+        "jamKe": 4,
+        "waktu": "10:00 - 10:40",
+        "code": "-",
+        "mapel": "Pkn/MTK",
+        "guru": "-"
+      }
+    ]
+  }
+}
