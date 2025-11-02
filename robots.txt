@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jadwalpelajaran.github.io/sitemap.xml
+Sitemap: https://jadwalpelajaran.my.id/sitemap.xml
