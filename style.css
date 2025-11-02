@@ -806,3 +806,11 @@ main {
   padding: 15px 20px;
   margin: 25px 0;
 }
+
+.update-info {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 0.9rem;
+  color: #666;
+  font-style: italic;
+}
