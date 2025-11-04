@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Koneksi Terputus</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Poppins', sans-serif;
+    }
+
+    body {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      background: #fafafa;
+      color: #333;
+      text-align: center;
+      padding: 20px;
+    }
+
+    img {
+      width: 220px;
+      max-width: 80%;
+      margin-bottom: 30px;
+      opacity: 0.9;
+    }
+
+    h1 {
+      font-size: 1.8rem;
+      margin-bottom: 10px;
+    }
+
+    p {
+      font-size: 0.95rem;
+      color: #555;
+      margin-bottom: 25px;
+      max-width: 320px;
+    }
+
+    button {
+      background: #0078ff;
+      color: #fff;
+      border: none;
+      padding: 10px 24px;
+      border-radius: 10px;
+      font-size: 0.9rem;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+
+    button:hover {
+      background: #005fc4;
+      transform: scale(1.05);
+    }
+
+    button.subtle {
+      background: none;
+      color: #0078ff;
+      border: 1px solid #0078ff;
+    }
+
+    button.subtle:hover {
+      background: #0078ff;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+  <img src="offline.svg" alt="Offline illustration">
+  <h1>Kamu Lagi Offline 😕</h1>
+  <p>Periksa koneksi internet kamu, lalu coba lagi. Kami bakal tetap di sini nungguin.</p>
+  <button onclick="location.reload()">Coba Lagi</button>
+  <br><br>
+  <button class="subtle" onclick="window.location.href='/'">Kembali ke Beranda</button>
+</body>
+</html>
