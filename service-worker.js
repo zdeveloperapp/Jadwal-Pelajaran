@@ -1,33 +1,38 @@
-const CACHE_NAME = 'jadwal-assets-v1';
+const CACHE_NAME = "jadwal-cache-v2";
 const ASSETS = [
-  '/style.css',
-  '/script.js',
-  '/images.png'
+  "/",
+  "/index.html",
+  "/style.css",
+  "/script.js",
+  "/icon.png",
+  "/splash.png"
 ];
 
-self.addEventListener('install', event => {
+self.addEventListener("install", event => {
   event.waitUntil(
     caches.open(CACHE_NAME).then(cache => cache.addAll(ASSETS))
   );
   self.skipWaiting();
 });
 
-self.addEventListener('activate', event => {
+self.addEventListener("activate", event => {
   event.waitUntil(
-    caches.keys().then(keys =>
-      Promise.all(keys.map(key => {
-        if (key !== CACHE_NAME) return caches.delete(key);
-      }))
+    caches.keys().then(keys => 
+      Promise.all(keys.map(key => key !== CACHE_NAME && caches.delete(key)))
     )
   );
   self.clients.claim();
 });
 
-self.addEventListener('fetch', event => {
-  const req = event.request;
-  if (ASSETS.some(asset => req.url.includes(asset))) {
-    event.respondWith(
-      caches.match(req).then(cached => cached || fetch(req))
-    );
-  }
+self.addEventListener("fetch", event => {
+  event.respondWith(
+    caches.match(event.request).then(resp => 
+      resp || fetch(event.request).then(fetchResp => {
+        return caches.open(CACHE_NAME).then(cache => {
+          cache.put(event.request, fetchResp.clone());
+          return fetchResp;
+        });
+      })
+    ).catch(() => caches.match("/index.html"))
+  );
 });
