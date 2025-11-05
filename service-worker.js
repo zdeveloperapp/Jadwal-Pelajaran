@@ -1,29 +1,33 @@
+const CACHE_NAME = 'jadwal-assets-v1';
+const ASSETS = [
+  '/style.css',
+  '/script.js',
+  '/images.png'
+];
+
 self.addEventListener('install', event => {
   event.waitUntil(
-    caches.open('jadwal-cache-v2').then(cache => {
-      return cache.addAll([
-        '/',
-        '/index.html',
-        '/style.css',
-        '/script.js',
-        '/images.png',
-        '/offline.html',
-        '/offline.svg'
-      ]);
-    })
+    caches.open(CACHE_NAME).then(cache => cache.addAll(ASSETS))
   );
+  self.skipWaiting();
+});
+
+self.addEventListener('activate', event => {
+  event.waitUntil(
+    caches.keys().then(keys =>
+      Promise.all(keys.map(key => {
+        if (key !== CACHE_NAME) return caches.delete(key);
+      }))
+    )
+  );
+  self.clients.claim();
 });
 
 self.addEventListener('fetch', event => {
-  if (event.request.mode === 'navigate') {
+  const req = event.request;
+  if (ASSETS.some(asset => req.url.includes(asset))) {
     event.respondWith(
-      fetch(event.request).catch(() => caches.match('/offline.html'))
-    );
-  } else {
-    event.respondWith(
-      caches.match(event.request).then(response => {
-        return response || fetch(event.request);
-      })
+      caches.match(req).then(cached => cached || fetch(req))
     );
   }
 });
