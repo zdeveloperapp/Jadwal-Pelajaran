@@ -178,14 +178,32 @@
   </footer>
 
   <script>
-    if ("serviceWorker" in navigator) {
-      window.addEventListener("load", () => {
-        navigator.serviceWorker.register("/service-worker.js", { scope: "/" })
-          .then(() => console.log("✅ Service Worker terdaftar"))
-          .catch(err => console.log("❌ Gagal daftar Service Worker:", err));
-      });
-    }
-  </script>
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", () => {
+    navigator.serviceWorker.register("service-worker.js")
+      .then(() => console.log("Service Worker terdaftar"))
+      .catch(err => console.log("Gagal daftar Service Worker:", err));
+  });
+}
+
+let deferredPrompt;
+window.addEventListener("beforeinstallprompt", (e) => {
+  e.preventDefault();
+  deferredPrompt = e;
+  const installBtn = document.createElement("button");
+  installBtn.textContent = "Install Aplikasi";
+  installBtn.className = "cta-btn install";
+  document.body.appendChild(installBtn);
+
+  installBtn.addEventListener("click", async () => {
+    installBtn.remove();
+    deferredPrompt.prompt();
+    const { outcome } = await deferredPrompt.userChoice;
+    console.log("User response:", outcome);
+    deferredPrompt = null;
+  });
+});
+</script>
 
   <script src="script.js" defer></script>
 </body>
