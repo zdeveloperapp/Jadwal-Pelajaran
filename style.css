@@ -358,12 +358,11 @@ main { flex: 1; }
   border-top: 1px solid #eee;
 }
 
-.footer-links {
-  margin-top: 10px;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 0.8rem;
+.footer-links a:not(:last-child)::after {
+  content: "|";
+  color: #ccc;
+  margin-left: 0.8rem;
+  font-weight: normal;
 }
 
 .footer-links a {
@@ -371,11 +370,39 @@ main { flex: 1; }
   text-decoration: none;
   font-weight: 500;
   font-size: 0.9rem;
+  position: relative;
+  padding: 0 0.6rem;
+  white-space: nowrap;
+  transition: color 0.2s ease;
 }
 
 .footer-links a:hover {
   color: #000;
   text-decoration: underline;
+}
+
+.doc-btn {
+  background: #f8faff;
+  border: 1.5px solid rgba(15, 98, 254, 0.15);
+  color: #0f62fe;
+  font-weight: 600;
+  padding: 8px 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+
+.doc-btn:hover {
+  background: #e8f0ff;
+  transform: translateY(-2px);
+}
+
+.doc-btn.active {
+  background: #0f62fe;
+  color: #fff;
+  border-color: #0f62fe;
+  box-shadow: 0 3px 8px rgba(15, 98, 254, 0.25);
+  transform: scale(1.05);
 }
 
 /* ===============================
