@@ -1,7 +1,13 @@
 if ('serviceWorker' in navigator) {
   navigator.serviceWorker.register('/service-worker.js')
-    .then(() => console.log('SW aktif'))
+    .then(reg => console.log('SW aktif tanpa cache'))
     .catch(err => console.error('SW gagal:', err));
+
+  navigator.serviceWorker.ready.then(reg => {
+    if (reg.active && reg.active.scriptURL.includes('service-worker.js')) {
+      caches.keys().then(keys => keys.forEach(k => caches.delete(k)));
+    }
+  });
 }
 
 document.addEventListener("DOMContentLoaded", async () => {
