@@ -1,29 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://jadwalpelajaran.my.id/</loc>
-    <lastmod>2025-11-02</lastmod>
-    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://jadwalpelajaran.my.id/about.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://jadwalpelajaran.my.id/document.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://jadwalpelajaran.my.id/contact.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://jadwalpelajaran.my.id/privacy.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://jadwalpelajaran.my.id/document.html</loc>
   </url>
 </urlset>
