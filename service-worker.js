@@ -1,7 +1,7 @@
 self.addEventListener('install', event => {
-  console.log('Service Worker aktif tanpa cache.');
+  self.skipWaiting();
 });
 
-self.addEventListener('fetch', event => {
-  event.respondWith(fetch(event.request));
+self.addEventListener('activate', event => {
+  event.waitUntil(clients.claim());
 });
