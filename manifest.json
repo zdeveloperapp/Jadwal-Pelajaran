@@ -1,7 +1,9 @@
 {
   "name": "Jadwal Pelajaran Digital",
-  "short_name": "Jadwal Pelajaran",
+  "short_name": "Jadwal",
+  "description": "Lihat jadwal pelajaran kamu secara mudah, cepat, dan praktis.",
   "start_url": "/index.html",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#f3fbfe",
   "theme_color": "#f3fbfe",
