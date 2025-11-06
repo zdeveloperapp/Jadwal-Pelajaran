@@ -4,66 +4,12 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>404 - Halaman Tidak Ditemukan</title>
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
-    body {
-      font-family: 'Poppins', sans-serif;
-      background: linear-gradient(135deg, #fafafa, #f0f0f0);
-      height: 100vh;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      text-align: center;
-      color: #333;
-      animation: fadeIn 0.8s ease-in-out;
-    }
-    @keyframes fadeIn {
-      from {opacity: 0;}
-      to {opacity: 1;}
-    }
-    h1 {
-      font-size: 8rem;
-      font-weight: 700;
-      letter-spacing: -2px;
-    }
-    p {
-      font-size: 1.2rem;
-      margin-top: 10px;
-      margin-bottom: 25px;
-      color: #555;
-    }
-    img {
-      width: 280px;
-      margin-bottom: 20px;
-      opacity: 0.9;
-    }
-    a {
-      display: inline-block;
-      color: #555;
-      border: 1px solid #ccc;
-      padding: 8px 16px;
-      border-radius: 8px;
-      text-decoration: none;
-      font-size: 0.95rem;
-      background: rgba(255, 255, 255, 0.4);
-      transition: all 0.3s ease;
-    }
-    a:hover {
-      background: rgba(0, 0, 0, 0.05);
-      border-color: #bbb;
-      color: #222;
-    }
-  </style>
+  <link rel="stylesheet" href="style.css">
 </head>
-<body>
-  <img src="file1.svg" alt="404 Illustration">
-  <h1>404</h1>
-  <p>Ups! Halaman yang kamu cari<br>nggak ada</p>
-  <a style="margin-bottom: 5px;" href="/">Kembali ke Beranda</a>
+<body class="notfound">
+  <img src="file1.svg" alt="404 Illustration" class="notfound-img">
+  <h1 class="notfound-title">404</h1>
+  <p class="notfound-text">Ups! Halaman yang kamu cari<br>nggak ada</p>
+  <a href="/" class="notfound-btn">Kembali ke Beranda</a>
 </body>
 </html>
