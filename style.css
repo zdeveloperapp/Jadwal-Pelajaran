@@ -285,6 +285,7 @@ main { flex: 1; }
   max-width: 900px;
   margin: 0 auto 80px auto;
   padding: 2rem;
+  height: 450px;
 }
 
 @media (min-width: 768px) {
