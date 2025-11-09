@@ -348,6 +348,7 @@ main { flex: 1; }
 /* ===============================
    FOOTER
 ================================= */
+
 #footer {
   text-align: center;
   font-size: 0.9rem;
@@ -358,11 +359,12 @@ main { flex: 1; }
   border-top: 1px solid #eee;
 }
 
-.footer-links a:not(:last-child)::after {
-  content: "|";
-  color: #ccc;
-  margin-left: 0.8rem;
-  font-weight: normal;
+.footer-links {
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.8rem;
 }
 
 .footer-links a {
@@ -373,12 +375,18 @@ main { flex: 1; }
   position: relative;
   padding: 0 0.6rem;
   white-space: nowrap;
-  transition: color 0.2s ease;
 }
 
 .footer-links a:hover {
   color: #000;
   text-decoration: underline;
+}
+
+.footer-links a:not(:last-child)::after {
+  content: "|";
+  color: #ccc;
+  margin-left: 0.8rem;
+  font-weight: normal;
 }
 
 .doc-btn {
