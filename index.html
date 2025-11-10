@@ -12,127 +12,138 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="default">
   <meta name="apple-mobile-web-app-title" content="Jadwal Pelajaran">
 
-  <title>Jadwal Pelajaran Digital - Lihat Jadwal Sekolah dengan Cepat & Praktis</title>
-  <meta name="title" content="Jadwal Pelajaran Digital - Lihat Jadwal Sekolah dengan Cepat & Praktis">
-  <meta name="description" content="Jadwal Pelajaran Digital membantu siswa dan guru mengakses jadwal sekolah dengan cepat, mudah, dan tanpa ribet. Cocok untuk SMK dan SMA.">
-  <meta name="keywords" content="jadwal pelajaran, jadwal sekolah, pendidikan digital, siswa, guru, smk, smk plus saripudin, cibinong, jadwal online, belajar, sekolah digital">
+  <title>Jadwal Pelajaran Digital</title>
+  <meta name="title" content="Jadwal Pelajaran Digital">
+  <meta name="description" content="Kelola dan lihat jadwal pelajaran kamu dengan cepat dan mudah, tanpa perlu mencocokkan data.">
+  <meta name="keywords" content="jadwal pelajaran, jadwal sekolah, pendidikan digital, siswa, guru, smk, sma, jadwal online, belajar, sekolah digital">
   <meta name="robots" content="index, follow">
-  <meta name="googlebot" content="index, follow">
   <meta name="language" content="id">
-  <meta name="category" content="education">
-  <meta name="topic" content="school, schedule, learning, education">
   <link rel="canonical" href="https://jadwalpelajaran.my.id/">
 
-  <meta name="google-site-verification" content="bfwGUQu1LwNqds1EcZkBar6f2vIvUUeIo64O2w1hVyA">
-  <meta name="google-adsense-account" content="ca-pub-5448032292594566">
+  <link rel="icon" href="ic.png" sizes="any">
+  <link rel="icon" type="image/png" sizes="32x32" href="ic.png">
+  <link rel="apple-touch-icon" href="ic.png">
+  <meta name="msapplication-TileImage" content="ic.png">
 
-  <link rel="icon" href="icon.png" sizes="any">
-  <link rel="icon" type="image/png" sizes="32x32" href="icon.png">
-  <link rel="icon" type="image/png" sizes="192x192" href="icon.png">
-  <link rel="apple-touch-icon" href="icon.png">
-  <meta name="msapplication-TileImage" content="icon.png">
-
-  <!-- ✅ Open Graph / Facebook -->
+  <!-- Open Graph -->
   <meta property="og:type" content="website">
   <meta property="og:locale" content="id_ID">
   <meta property="og:site_name" content="Jadwal Pelajaran Digital">
   <meta property="og:url" content="https://jadwalpelajaran.my.id/">
   <meta property="og:title" content="Jadwal Pelajaran Digital">
   <meta property="og:description" content="Lihat jadwal sekolah secara praktis dan efisien, di mana saja dan kapan saja.">
-  <meta property="og:image" content="https://jadwalpelajaran.my.id/images.png">
+  <meta property="og:image" content="https://jadwalpelajaran.my.id/ic.png">
 
-  <!-- ✅ Twitter -->
+  <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Jadwal Pelajaran Digital">
   <meta name="twitter:description" content="Akses jadwal sekolah dengan mudah, cepat, dan rapi di Jadwal Pelajaran Digital.">
-  <meta name="twitter:image" content="https://jadwalpelajaran.my.id/images.png">
+  <meta name="twitter:image" content="https://jadwalpelajaran.my.id/ic.png">
 
-  <!-- ✅ JSON-LD Schema -->
+  <!-- JSON-LD Schema -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "WebApplication",
-    "name": "Jadwal Pelajaran Digital",
-    "url": "https://jadwalpelajaran.my.id/",
-    "description": "Aplikasi web untuk melihat jadwal pelajaran sekolah secara digital, cepat, dan mudah digunakan oleh siswa maupun guru.",
-    "applicationCategory": "Education",
-    "operatingSystem": "Any",
-    "inLanguage": "id",
-    "creator": {
-      "@type": "Organization",
-      "name": "ZDeveloper",
-      "url": "https://jadwalpelajaran.my.id/"
-    },
-    "image": "https://jadwalpelajaran.my.id/images.png",
-    "potentialAction": {
-      "@type": "ViewAction",
-      "target": "https://jadwalpelajaran.my.id/"
-    }
+    "@graph": [
+      {
+        "@type": "Organization",
+        "name": "Jadwal Pelajaran Digital",
+        "url": "https://jadwalpelajaran.my.id/",
+        "logo": "https://jadwalpelajaran.my.id/ic.png"
+      },
+      {
+        "@type": "WebSite",
+        "name": "Jadwal Pelajaran Digital",
+        "url": "https://jadwalpelajaran.my.id/",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://jadwalpelajaran.my.id/?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://jadwalpelajaran.my.id/",
+        "url": "https://jadwalpelajaran.my.id/",
+        "name": "Beranda",
+        "isPartOf": {"@id": "https://jadwalpelajaran.my.id/#website"},
+        "primaryImageOfPage": "https://jadwalpelajaran.my.id/ic.png",
+        "description": "Beranda Jadwal Pelajaran Digital — platform untuk melihat jadwal sekolah dengan cepat dan mudah."
+      },
+      {
+        "@type": "ItemList",
+        "name": "Navigasi Utama",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Beranda",
+            "url": "https://jadwalpelajaran.my.id/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Dokumen",
+            "url": "https://jadwalpelajaran.my.id/document.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tentang",
+            "url": "https://jadwalpelajaran.my.id/about.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Kontak",
+            "url": "https://jadwalpelajaran.my.id/contact.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Kebijakan Privasi",
+            "url": "https://jadwalpelajaran.my.id/privacy.html"
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Beranda",
+            "item": "https://jadwalpelajaran.my.id/"
+          }
+        ]
+      }
+    ]
   }
   </script>
 
   <link rel="stylesheet" href="style.css">
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5448032292594566" crossorigin="anonymous"></script>
 </head>
 
 <body>
-  <section class="hero">
-    <h1>📚 Jadwal Pelajaran Digital</h1>
-    <p>Kelola dan lihat jadwal pelajaran kamu dengan cepat dan mudah, tanpa perlu mencocokkan data.</p>
-  </section>
-
-  <div class="app">
-    <header class="app-header pretty">
-      <h2 class="big-title">Pilih Kelas</h2>
-      <div class="controls">
-        <button class="btn class-btn" data-class="10-TJKT">10 TJKT</button>
-        <button class="btn class-btn" data-class="10-TO">10 TO</button>
-        <button class="btn class-btn" data-class="10-FARMASI">10 FARMASI</button>
-        <button class="btn class-btn" data-class="10-APHP">10 APHP</button>
-        <button class="btn class-btn" data-class="11-TJKT">11 TJKT</button>
-        <button class="btn class-btn" data-class="11-TO">11 TO</button>
-        <button class="btn class-btn" data-class="11-FARMASI">11 FARMASI</button>
-        <button class="btn class-btn" data-class="12-TJKT">12 TJKT</button>
-        <button class="btn class-btn" data-class="12-TO">12 TO</button>
-        <button class="btn class-btn" data-class="12-FARMASI">12 FARMASI</button>
-        <button class="btn class-btn" data-class="12-APHP">12 APHP</button>
-      </div>
-    </header>
-
-    <main class="main">
-      <aside class="days-rail" id="daysRail"></aside>
-      <section class="content" id="scheduleArea">
-        <div id="status" class="status">Silakan pilih kelas terlebih dahulu</div>
-        <div id="daysContainer" class="days-container" aria-live="polite"></div>
-      </section>
-    </main>
-  </div>
-
-  <section class="global-cta">
-    <div class="cta-card feedback">
-      <h2>💬 Saran & Masukan</h2>
-      <p>Kami selalu berupaya menjaga akurasi dan kenyamanan penggunaan situs ini. Jika kamu menemukan kesalahan atau punya ide pengembangan, kirimkan melalui halaman kontak.</p>
-      <button class="cta-btn whatsapp" onclick="window.location.href='contact.html'">Kirim Feedback</button>
-    </div>
-
-    <div class="cta-card support">
-      <h2>☕ Dukung Kami</h2>
-      <p>Jika situs ini bermanfaat untukmu, bantu dukung operasional kami dengan traktir kopi di Saweria. Dukunganmu membantu kami terus memperbarui data dan fitur.</p>
-      <button class="cta-btn donate" onclick="window.open('https://saweria.co/zdeveloper', '_blank')">Traktir Sekarang</button>
-    </div>
-  </section>
-
-  <footer id="footer">
-    <p>© 2025 Jadwal Pelajaran Digital.</p>
-    <div class="footer-links">
+  <header>
+    <nav>
       <a href="index.html">Beranda</a>
-      <a href="about.html">Tentang</a>
       <a href="document.html">Dokumen</a>
+      <a href="about.html">Tentang</a>
       <a href="contact.html">Kontak</a>
       <a href="privacy.html">Kebijakan Privasi</a>
-    </div>
-  </footer>
+    </nav>
+  </header>
 
-  <script src="script.js" defer></script>
+  <main>
+    <section class="hero">
+      <h1>📚 Jadwal Pelajaran Digital</h1>
+      <p>Kelola dan lihat jadwal pelajaran kamu dengan cepat dan mudah, tanpa perlu mencocokkan data secara manual.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Jadwal Pelajaran Digital</p>
+  </footer>
 </body>
 </html>
