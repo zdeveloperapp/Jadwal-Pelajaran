@@ -123,8 +123,8 @@
 
   <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
+    
   <header>
     <nav>
       <a href="index.html">Beranda</a>
@@ -134,16 +134,81 @@
       <a href="privacy.html">Kebijakan Privasi</a>
     </nav>
   </header>
+    
+  <section class="hero">
+    <h1>📚 Jadwal Pelajaran Digital</h1>
+    <p>
+      Kelola dan lihat jadwal pelajaran kamu dengan cepat dan mudah, tanpa
+      perlu mencocok-kan data.
+    </p>
+  </section>
 
-  <main>
-    <section class="hero">
-      <h1>📚 Jadwal Pelajaran Digital</h1>
-      <p>Kelola dan lihat jadwal pelajaran kamu dengan cepat dan mudah, tanpa perlu mencocokkan data secara manual.</p>
-    </section>
-  </main>
+  <div class="app">
+    <header class="app-header pretty">
+      <h2 class="big-title">Pilih Kelas</h2>
+      <div class="controls">
+        <button class="btn class-btn" data-class="10-TJKT">10 TJKT</button>
+        <button class="btn class-btn" data-class="10-TO">10 TO</button>
+        <button class="btn class-btn" data-class="10-FARMASI">10 FARMASI</button>
+        <button class="btn class-btn" data-class="10-APHP">10 APHP</button>
+        <button class="btn class-btn" data-class="11-TJKT">11 TJKT</button>
+        <button class="btn class-btn" data-class="11-TO">11 TO</button>
+        <button class="btn class-btn" data-class="11-FARMASI">11 FARMASI</button>
+        <button class="btn class-btn" data-class="12-TJKT">12 TJKT</button>
+        <button class="btn class-btn" data-class="12-TO">12 TO</button>
+        <button class="btn class-btn" data-class="12-FARMASI">12 FARMASI</button>
+        <button class="btn class-btn" data-class="12-APHP">12 APHP</button>
+      </div>
+    </header>
 
-  <footer>
-    <p>© 2025 Jadwal Pelajaran Digital</p>
+    <main class="main">
+      <aside class="days-rail" id="daysRail"></aside>
+      <section class="content" id="scheduleArea">
+        <div id="status" class="status">
+          Silakan pilih kelas terlebih dahulu
+        </div>
+        <div id="daysContainer" class="days-container" aria-live="polite"></div>
+      </section>
+    </main>
+  </div>
+
+  <section class="global-cta">
+    <div class="cta-card feedback">
+      <h2>💬 Saran & Masukan</h2>
+      <p>
+        Kami selalu berupaya menjaga akurasi dan kenyamanan penggunaan situs ini.
+        Jika kamu menemukan kesalahan atau punya ide pengembangan, kirimkan
+        melalui halaman kontak.
+      </p>
+      <button class="cta-btn whatsapp" onclick="window.location.href='contact.html'">
+        Kirim Feedback
+      </button>
+    </div>
+
+    <div class="cta-card support">
+      <h2>☕ Dukung Kami</h2>
+      <p>
+        Jika situs ini bermanfaat untukmu, bantu dukung operasional kami dengan
+        traktir kopi di Saweria. Dukunganmu membantu kami terus memperbarui
+        data dan fitur.
+      </p>
+      <button class="cta-btn donate" onclick="window.open('https://saweria.co/zdeveloper', '_blank')">
+        Traktir Sekarang
+      </button>
+    </div>
+  </section>
+
+  <footer id="footer">
+    <p>© 2025 Jadwal Pelajaran Digital.</p>
+    <div class="footer-links">
+      <a href="index.html">Beranda</a>
+      <a href="about.html">Tentang</a>
+      <a href="document.html">Dokumen</a>
+      <a href="contact.html">Kontak</a>
+      <a href="privacy.html">Kebijakan Privasi</a>
+    </div>
   </footer>
+
+  <script src="script.js" defer></script>
 </body>
 </html>
