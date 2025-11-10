@@ -16,4 +16,8 @@
   <url>
     <loc>https://jadwalpelajaran.my.id/document.html</loc>
   </url>
+  <!-- Tambahan penting biar Google crawl ads.txt -->
+  <url>
+    <loc>https://jadwalpelajaran.my.id/ads.txt</loc>
+  </url>
 </urlset>
