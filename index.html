@@ -197,7 +197,27 @@ l.parentNode.insertBefore(s, l);
       </div>
     </header>
 
+<!-- IKLAN DESKTOP -->
+<div id="ads-desktop" style="display:none;">
 <div style="text-align:center; width:100%;">
+  <script>
+(function(vkzea){
+var d = document,
+    s = d.createElement('script'),
+    l = d.scripts[d.scripts.length - 1];
+s.settings = vkzea || {};
+s.src = "\/\/cooperative-reveal.com\/bGXjVKsgd.GNlV0GYXWWcO\/Ve_mq9CuNZqU\/lnksPGTvY\/3VMAD\/UI3eM-zIkOt\/NMj\/cdwcNuTicL0pMKAc";
+s.async = true;
+s.referrerPolicy = 'no-referrer-when-downgrade';
+l.parentNode.insertBefore(s, l);
+})({})
+</script>
+</div>
+</div>
+
+<!-- IKLAN MOBILE -->
+<div id="ads-mobile" style="display:none;">
+  <div style="text-align:center; width:100%;">
 <script>
 (function(stw){
 var d = document,
@@ -210,6 +230,7 @@ s.referrerPolicy = 'no-referrer-when-downgrade';
 l.parentNode.insertBefore(s, l);
 })({})
 </script>
+</div>
 </div>
 
     <main class="main">
@@ -289,6 +310,21 @@ l.parentNode.insertBefore(s, l);
       <a href="privacy.html">Kebijakan Privasi</a>
     </div>
   </footer>
+
+<script>
+  function isMobile() {
+    return /android|iphone|ipad|iPod|windows phone/i.test(navigator.userAgent)
+      || window.innerWidth <= 768;
+  }
+
+  if (isMobile()) {
+    document.getElementById("ads-mobile").style.display = "block";
+    document.getElementById("ads-desktop").style.display = "none";
+  } else {
+    document.getElementById("ads-mobile").style.display = "none";
+    document.getElementById("ads-desktop").style.display = "block";
+  }
+</script>
 
   <script src="script.js" defer></script>
 </body>
